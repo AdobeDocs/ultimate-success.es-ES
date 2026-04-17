@@ -3,7 +3,7 @@ title: Serie de Realización de Valores Supply chain de Contenido
 description: Esta serie explora cómo modernizar el contenido de supply chain desde la planificación hasta la medición. Las sesiones destacan enfoques prácticos para la arquitectura, los modelos operativos, el patrocinio ejecutivo y la administración del cambio para impulsar la eficiencia, escalar las operaciones de contenido y ofrecer resultados mensurables.
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

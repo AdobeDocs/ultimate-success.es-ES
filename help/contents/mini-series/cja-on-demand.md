@@ -3,7 +3,7 @@ title: Serie de aceleración de CJA Value Realization
 description: Esta serie de Customer Journey Analytics bajo demanda ayuda a las organizaciones a crear una estrategia de medición basada en el valor que convierte los datos de los clientes en perspectivas de confianza y resultados empresariales cuantificables.
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
