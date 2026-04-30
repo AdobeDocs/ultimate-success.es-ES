@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-Esta sesión requiere poco o ningún trabajo previo.  Si lo desea, puede ver la grabación de [Estrategias de administración de cambios](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) de la serie [VRA](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), que admite equipos en cualquier nivel de madurez y que garantiza que todos los asistentes salgan con un plan de cambios tangible de una página directamente alineado con sus casos de uso de AJO.
+Esta sesión requiere poco o ningún trabajo previo.  Si lo desea, puede ver la grabación de [Estrategias de administración de cambios](https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) de la serie [VRA](https://experienceleague.adobe.com/es/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), que admite equipos en cualquier nivel de madurez y que garantiza que todos los asistentes salgan con un plan de cambios tangible de una página directamente alineado con sus casos de uso de AJO.
 
 Esta sesión se centró en,
 
