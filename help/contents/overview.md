@@ -2,7 +2,7 @@
 title: Biblioteca de seminarios web de Ultimate Success
 description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -18,7 +18,8 @@ Acceda a nuestra completa biblioteca de seminarios web impartidos por expertos y
 
 Explore nuestra colección de seminarios web bajo demanda diseñados para ayudarle a maximizar el valor de las soluciones de Adobe Experience Platform (AEP). Diseñada para los clientes de Ultimate, cada sesión ofrece directrices útiles, estrategias probadas y ejemplos reales para ayudarle a tomar decisiones más inteligentes y obtener resultados más sólidos según su programación.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -207,7 +208,8 @@ Explore las grabaciones OnDemand de la serie Value Realization de Adobe, diseña
 
 Cada sesión centrada destaca un pilar central del marco de trabajo de realización de valores, que ofrece orientación práctica y artefactos probados para apoyar la planificación estratégica, acelerar el tiempo de obtención del valor e impulsar resultados significativos. Examine las series específicas de productos y del sector para ver cómo los equipos activan la estrategia, alinean a las partes interesadas y pasan de la adopción al impacto.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
   {cta  = View series}
   
