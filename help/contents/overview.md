@@ -2,7 +2,7 @@
 title: Biblioteca de seminarios web de Ultimate Success
 description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 hide: true
-source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
+source-git-commit: 6c0d3d7998b5beed45fb8d88aa3685c2e6dc7bc9
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -23,6 +23,8 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/unified-audiences.md
+* ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
 * https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
 * https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
