@@ -2,9 +2,9 @@
 title: Biblioteca de seminarios web de Ultimate Success
 description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 hide: true
-source-git-commit: 773fa770ff0d64a6322de776a95868402c324e20
+source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
 workflow-type: tm+mt
-source-wordcount: '1135'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -23,26 +23,19 @@ CARDS  ****
 
 {cta = Watch}
 
-* ../contents/2026/ai-visibility.md
-* ../contents/2026/unified-audiences.md
-* ../contents/2026/intelligent-decsioning.md
-* ../contents/2026/change-management-deep-dive.md
-* https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
-* https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
-* https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
-* https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
-* https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
-* https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
+* ../contents/2026/csc-structured-framework-measurement-scorecard.md
+* ../contents/2026/universal-editor-ssr-frameworks.md
+* ../contents/2026/ajo-product-release.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Win Visibility in the AI Era with Adobe LLM Optimizer & Sites Optimizer">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Driving Value Across the Content Supply Chain - A Structured Framework & Measurement Scorecard">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../contents/2026/ai-visibility.md" title="Consiga visibilidad en la era de la IA con Adobe LLM Optimizer y Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486903/?format=jpeg&nocache=1778531011360" alt="Consiga visibilidad en la era de la IA con Adobe LLM Optimizer y Sites Optimizer"
+                    <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491238/?captions=spa&format=jpeg&nocache=1779390693086" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -50,22 +43,22 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../contents/2026/ai-visibility.md" target="_blank" rel="referrer" title="Consiga visibilidad en la era de la IA con Adobe LLM Optimizer y Sites Optimizer">Ganar visibilidad en la era de IA con Adobe LLM Optimizer y Sites Optimizer</a>
+                        <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" target="_blank" rel="referrer" title="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición">Valor guía en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición</a>
                     </p>
-                    <p class="is-size-6">Descubra cómo Adobe LLM Optimizer y Sites Optimizer mejoran la visibilidad de la IA, el rendimiento del sitio y ofrecen experiencias digitales de alto impacto.</p>
+                    <p class="is-size-6">Aprenda un enfoque estructurado para medir y optimizar el valor en todo el contenido de supply chain para obtener mejores resultados empresariales.</p>
                 </div>
-                <a href="../contents/2026/ai-visibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Federated Audience Composition (FAC) in AEP - From Data Silos to Unified Audiences">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Fast, Editable Sites with Universal Editor and Modern SSR Frameworks">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../contents/2026/unified-audiences.md" title="Desbloqueo de la Composición de audiencias federadas (FAC) en AEP: de silos de datos a audiencias unificadas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486505/?format=jpeg&nocache=1778531011369" alt="Desbloqueo de la Composición de audiencias federadas (FAC) en AEP: de silos de datos a audiencias unificadas"
+                    <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="Sitios rápidos y editables con editor universal y marcos modernos de SSR" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1779390693103" alt="Sitios rápidos y editables con editor universal y marcos modernos de SSR"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,22 +66,22 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../contents/2026/unified-audiences.md" target="_blank" rel="referrer" title="Desbloqueo de la Composición de audiencias federadas (FAC) en AEP: de silos de datos a audiencias unificadas">Desbloqueo de la composición de audiencias federadas (FAC) en AEP: de silos de datos a audiencias unificadas</a>
+                        <a href="../contents/2026/universal-editor-ssr-frameworks.md" target="_blank" rel="referrer" title="Sitios rápidos y editables con editor universal y marcos modernos de SSR">Sitios rápidos y editables con editor universal y marcos modernos de SSR</a>
                     </p>
-                    <p class="is-size-6">Descubra cómo Adobe Experience Platform permite audiencias unificadas y procesables conectando silos de datos empresariales, respetando la gobernanza y activando perspectivas.</p>
+                    <p class="is-size-6">Descubra cómo los marcos de Adobe Universal Editor y SSR ofrecen sitios rápidos, editables y optimizados para la SEO para especialistas en marketing y desarrolladores.</p>
                 </div>
-                <a href="../contents/2026/unified-audiences.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="../contents/2026/universal-editor-ssr-frameworks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Powering Real-Time Customer Experiences with Intelligent Decisioning">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO Product Release Session">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../contents/2026/intelligent-decsioning.md" title="Potenciación de las experiencias del cliente en tiempo real con decisiones inteligentes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486504/?format=jpeg&nocache=1778531011366" alt="Potenciación de las experiencias del cliente en tiempo real con decisiones inteligentes"
+                    <a href="../contents/2026/ajo-product-release.md" title="Sesión de lanzamiento del producto de AJO" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1779390693095" alt="Sesión de lanzamiento del producto de AJO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,172 +89,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../contents/2026/intelligent-decsioning.md" target="_blank" rel="referrer" title="Potenciación de las experiencias del cliente en tiempo real con decisiones inteligentes">Impulso de las experiencias de los clientes en tiempo real con decisiones inteligentes</a>
+                        <a href="../contents/2026/ajo-product-release.md" target="_blank" rel="referrer" title="Sesión de lanzamiento del producto de AJO">Sesión de lanzamiento del producto AJO</a>
                     </p>
-                    <p class="is-size-6">Aprenda a utilizar Adobe Journey Optimizer para la toma de decisiones inteligente y ofrezca experiencias de cliente personalizadas en tiempo real.</p>
+                    <p class="is-size-6">Descubra nuevas funciones de AJO para mejorar la personalización, aumentar la eficacia y ofrecer mejores experiencias al cliente.</p>
                 </div>
-                <a href="../contents/2026/intelligent-decsioning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Change Management Deep Dive Adobe Journey Optimizer (AJO)">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="../contents/2026/change-management-deep-dive.md" title="Change Management Deep Dive Adobe Journey Optimizer (AJO)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486200/?format=jpeg&nocache=1778531011373" alt="Change Management Deep Dive Adobe Journey Optimizer (AJO)"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../contents/2026/change-management-deep-dive.md" target="_blank" rel="referrer" title="Change Management Deep Dive Adobe Journey Optimizer (AJO)">Change Management Deep Dive Adobe Journey Optimizer (AJO)</a>
-                    </p>
-                    <p class="is-size-6">Explore estrategias eficaces de administración de cambios para acelerar la adopción de AJO en su organización.</p>
-                </div>
-                <a href="../contents/2026/change-management-deep-dive.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="BRD-SDR File Creation for Analytics and Customer Journey Analytics">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="Creación de archivos BRD-SDR para Analytics y Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1778531012539" alt="Creación de archivos BRD-SDR para Analytics y Customer Journey Analytics"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" title="Creación de archivos BRD-SDR para Analytics y Customer Journey Analytics">Creación de archivos BRD-SDR para Analytics y Customer Journey Analytics</a>
-                    </p>
-                    <p class="is-size-6">Conozca las prácticas recomendadas para crear archivos BRD-SDR en Adobe Analytics y CJA, optimizar el rendimiento y facilitar las migraciones.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Embedded Intelligence Shift">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="Cambio de inteligencia integrada" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1778531012431" alt="Cambio de inteligencia integrada"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" title="Cambio de inteligencia integrada">Cambio de inteligencia integrada</a>
-                    </p>
-                    <p class="is-size-6">Explore cómo Adobe Experience Cloud introduce la inteligencia de asistencia para mejorar la toma de decisiones y acelerar los ciclos de insight a la acción.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Authoring in Edge Delivery Services">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Creación en Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1778531012496" alt="Creación en Edge Delivery Services"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" title="Creación en Edge Delivery Services">Creación en Edge Delivery Services</a>
-                    </p>
-                    <p class="is-size-6">Descubra estrategias de creación en Edge Delivery Services, comparando la creación basada en documentos y el editor universal con AEM Sites.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Content Supply Chains">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Maximizar las cadenas de suministro de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479089/?captions=spa&format=jpeg&nocache=1778531012430" alt="Maximizar las cadenas de suministro de contenido"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" title="Maximizar las cadenas de suministro de contenido">Maximizar cadenas de suministro de contenido</a>
-                    </p>
-                    <p class="is-size-6">Descubra cómo optimizar las cadenas de suministro de contenido con las soluciones de Adobe para obtener resultados impactantes. Conozca los patrones de la industria y trace objetivos de forma eficaz.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Modern Delivery Models for AEM Sites">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Modelos de envío modernos para AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478778/?captions=spa&format=jpeg&nocache=1778531012485" alt="Modelos de envío modernos para AEM Sites"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" title="Modelos de envío modernos para AEM Sites">Modelos modernos de entrega para AEM Sites</a>
-                    </p>
-                    <p class="is-size-6">Explore los modelos de entrega modernos para AEM Sites a fin de garantizar una entrega de contenido ágil y escalable y experiencias de creación optimizadas.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Strategic Benefits of AEM Cloud Service">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="Ventajas estratégicas de AEM Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1778531012531" alt="Ventajas estratégicas de AEM Cloud Service"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" title="Ventajas estratégicas de AEM Cloud Service">Ventajas estratégicas de AEM Cloud Service</a>
-                    </p>
-                    <p class="is-size-6">Descubra las ventajas estratégicas y operativas de AEM Cloud Service de Adobe para cimientos digitales modernos.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="../contents/2026/ajo-product-release.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
