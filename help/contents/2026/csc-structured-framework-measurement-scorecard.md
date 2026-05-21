@@ -19,4 +19,4 @@ ht-degree: 0%
 
 A medida que aumenta la complejidad del contenido, muchas organizaciones se esfuerzan por demostrar claramente el valor comercial de sus operaciones de contenido. Este seminario web presenta un enfoque estructurado y basado en resultados para medir el valor en el Supply chain de contenido, lo que le ayuda a definir indicadores clave de rendimiento (KPI) significativos, vincular las inversiones de contenido al impacto empresarial y establecer un cuadro de resultados de medición listo para el ejecutivo para la realización continua de valores
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491238/?captions=spa&learn=on&enablevpops)

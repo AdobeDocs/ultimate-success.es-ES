@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Descubra cómo la inteligencia artificial redefine la búsqueda e impacta en las estrategias digitales. En esta sesión se analiza la optimización de los sitios de Adobe Experience Manager (AEM) para mejorar la visibilidad, el rendimiento y las conversiones en el cambiante panorama de la detección basada en IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491259/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491276/?captions=spa&learn=on&enablevpops)
 
 ## Temas clave
 
