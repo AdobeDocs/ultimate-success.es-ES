@@ -2,7 +2,8 @@
 user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
-source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
+nudge: true
+source-git-commit: b451f5edcc76c97b6b8c27bde91129a06840c8b5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
