@@ -2,8 +2,15 @@
 title: Explicación de la IA y la arquitectura estratégica de Adobe para las necesidades empresariales
 description: Descubra cómo la IA de Adobe y la arquitectura agéntica se alinean con los resultados empresariales, maximizan las inversiones de Adobe y permiten una adopción escalable con una gobernanza sólida.
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

@@ -2,8 +2,14 @@
 title: 'Escala de agentes de Adobe: Journey Agent'
 description: Descubra cómo Journey Agent de Adobe combina flujos de trabajo de IA con supervisión humana para optimizar la creación y la gobernanza de recorridos.
 product: Journey Optimizer
-role: AdminLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

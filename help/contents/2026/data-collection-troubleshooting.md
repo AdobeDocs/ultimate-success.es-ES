@@ -2,8 +2,12 @@
 title: 'Solución de problemas de recopilación de datos: consejos, trucos y prácticas recomendadas de administración'
 description: Aprenda formas eficaces de solucionar problemas de Adobe Analytics y Web SDK con técnicas basadas en la gobernanza para validar datos y resolver problemas más rápido.
 product: Customer Journey Analytics
-role: AdminDeveloper
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

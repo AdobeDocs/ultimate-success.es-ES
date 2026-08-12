@@ -2,8 +2,13 @@
 title: 'Escalado De Agentes De Adobe: Brand Experience Agent'
 description: Descubra cómo Brand Experience Agent de Adobe puede optimizar los flujos de trabajo, acelerar la producción de contenido y garantizar el control para obtener un valor empresarial escalable.
 product: Workfront
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
