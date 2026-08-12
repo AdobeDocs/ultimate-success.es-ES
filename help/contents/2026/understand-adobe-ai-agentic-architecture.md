@@ -30,7 +30,7 @@ ht-degree: 4%
 
 Esta sesión proporciona un marco detallado para alinear las capacidades de IA de Adobe con sus objetivos comerciales. Se centra en maximizar sus inversiones en Adobe y en adoptar soluciones escalables con una preparación y un control de datos mejorados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496961/?captions=spa&learn=on&enablevpops)
 
 ## Lo que aprenderá
 

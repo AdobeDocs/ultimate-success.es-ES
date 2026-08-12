@@ -28,7 +28,7 @@ ht-degree: 2%
 
 Vea cómo Brand Experience Agent puede acelerar la producción de contenido, la modernización y el desarrollo del sitio al tiempo que preserva la revisión y el control humanos. Descubra por qué la estandarización de flujos de trabajo repetitivos de alto valor es esencial para ofrecer un valor empresarial escalable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496970/?captions=spa&learn=on&enablevpops)
 
 ## Lo que aprenderá
 
