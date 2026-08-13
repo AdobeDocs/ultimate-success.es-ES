@@ -1,7 +1,7 @@
 ---
 title: Explicación de la IA y la arquitectura estratégica de Adobe para las necesidades empresariales
 description: Descubra cómo la IA de Adobe y la arquitectura agéntica se alinean con los resultados empresariales, maximizan las inversiones de Adobe y permiten una adopción escalable con una gobernanza sólida.
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Esta sesión proporciona un marco detallado para alinear las capacidades de IA de Adobe con sus objetivos comerciales. Se centra en maximizar sus inversiones en Adobe y en adoptar soluciones escalables con una preparación y un control de datos mejorados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496961/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
 
 ## Lo que aprenderá
 

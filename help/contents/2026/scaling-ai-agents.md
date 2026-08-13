@@ -1,7 +1,7 @@
 ---
 title: 'Ampliación de agentes de Adobe AI: Audience Agent y Data Insights Agent'
 description: Descubra cómo Audience Agent y Data Insights Agent convierten el uso de IA ad hoc en flujos de trabajo repetibles para la segmentación, la administración de audiencias y el análisis de campañas.
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22287
 duration: 2930
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%

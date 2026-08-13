@@ -1,7 +1,7 @@
 ---
 title: 'Escalado De Agentes De Adobe: Brand Experience Agent'
 description: Descubra cómo Brand Experience Agent de Adobe puede optimizar los flujos de trabajo, acelerar la producción de contenido y garantizar el control para obtener un valor empresarial escalable.
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Vea cómo Brand Experience Agent puede acelerar la producción de contenido, la modernización y el desarrollo del sitio al tiempo que preserva la revisión y el control humanos. Descubra por qué la estandarización de flujos de trabajo repetitivos de alto valor es esencial para ofrecer un valor empresarial escalable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496970/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## Lo que aprenderá
 
