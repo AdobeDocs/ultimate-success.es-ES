@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Aprenda a conectar las experiencias de la aplicación móvil de Adobe Target con acciones de bajada a través de los canales con CJA4T. En esta sesión se explica cómo vincular la identidad, la arquitectura de datos, la configuración de informes y cómo evitar problemas comunes de la configuración. Obtenga una vista más completa del impacto de la personalización y tome mejores decisiones de optimización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496981/?captions=spa&learn=on&enablevpops)
 
 ## Lo que aprenderá
 
