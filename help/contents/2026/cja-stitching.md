@@ -2,8 +2,13 @@
 title: Elevación de perspectivas multicanal con vinculación de Adobe Customer Journey Analytics
 description: Descubra cómo la vinculación de Adobe CJA desbloquea el análisis en canales múltiples a nivel de persona, mejorando la creación de informes, la atribución y la creación de audiencias.
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
