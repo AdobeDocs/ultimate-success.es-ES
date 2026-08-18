@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
+source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -47,3 +47,4 @@ ht-degree: 1%
   + {hide-from-toc}[CJA4T para Personalization de aplicaciones móviles](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Arquitectura de IA y agéntica de Adobe](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc}[Modelo operativo escalable para Adobe Workfront](../contents/2026/scalable-operating-model.md)
+  + {hide-from-toc}[Vinculación de Adobe Customer Journey Analytics](../contents/2026/cja-stitching.md)
