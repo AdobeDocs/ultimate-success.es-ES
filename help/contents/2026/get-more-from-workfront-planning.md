@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Descubra cómo Workfront Planning aborda la visibilidad fragmentada, la estrategia y ejecución desconectadas y la sobrecarga de informes manual en la planificación de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502973/?captions=spa&learn=on&enablevpops)
 
 ## Principales conclusiones
 

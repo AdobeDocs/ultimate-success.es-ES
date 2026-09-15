@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Descubra el enfoque recomendado por Adobe para la administración de posibles clientes y descubra cómo pueden funcionar el marketing y las ventas desde un marco de trabajo compartido para la calificación, el seguimiento y la medición.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502993/?captions=spa&learn=on&enablevpops)
 
 ## Información general
 

@@ -163,7 +163,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/cja4t-mobile-app-personalization.md" title="Del experimento al Insight: CJA4T para aplicaciones móviles Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496953/?format=jpeg&nocache=1789514060106" alt="Del experimento al Insight: CJA4T para aplicaciones móviles Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496981/?captions=spa&format=jpeg&nocache=1789514060106" alt="Del experimento al Insight: CJA4T para aplicaciones móviles Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,7 +347,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-success" title="Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1789514062194" alt="Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470857/?captions=spa&format=jpeg&nocache=1789514062194" alt="Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -416,7 +416,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-shared-audiences" title="Creación de ofertas en 30 minutos con CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1789514062207" alt="Creación de ofertas en 30 minutos con CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477459/?captions=spa&format=jpeg&nocache=1789514062207" alt="Creación de ofertas en 30 minutos con CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -550,7 +550,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2024/lean-teams-cja" title="Maximización de la eficiencia: equipos lean y Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1789514063429" alt="Maximización de la eficiencia: equipos lean y Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457011/?captions=spa&format=jpeg&nocache=1789514063429" alt="Maximización de la eficiencia: equipos lean y Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -787,7 +787,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/optimize-aem-for-geo.md" title="De SEO a GEO: Optimización de AEM Sites para el rendimiento web y la detección de IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491259/?format=jpeg&nocache=1789514063867" alt="De SEO a GEO: Optimización de AEM Sites para el rendimiento web y la detección de IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491276/?captions=spa&format=jpeg&nocache=1789514063867" alt="De SEO a GEO: Optimización de AEM Sites para el rendimiento web y la detección de IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -810,7 +810,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1789514063873" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491238/?captions=spa&format=jpeg&nocache=1789514063873" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -902,7 +902,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Maximizar las cadenas de suministro de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1789514064958" alt="Maximizar las cadenas de suministro de contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479089/?captions=spa&format=jpeg&nocache=1789514064958" alt="Maximizar las cadenas de suministro de contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -925,7 +925,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Modelos de envío modernos para AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1789514064647" alt="Modelos de envío modernos para AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478778/?captions=spa&format=jpeg&nocache=1789514064647" alt="Modelos de envío modernos para AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1135,7 +1135,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/mastering-aem-sites" title="Dominio de AEM Sites: plantillas, navegación y SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1789514066075" alt="Dominio de AEM Sites: plantillas, navegación y SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464318/?captions=spa&format=jpeg&nocache=1789514066075" alt="Dominio de AEM Sites: plantillas, navegación y SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1427,7 +1427,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/understand-adobe-ai-agentic-architecture.md" title="Explicación de la IA y la arquitectura estratégica de Adobe para las necesidades empresariales" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496952/?format=jpeg&nocache=1789514067990" alt="Explicación de la IA y la arquitectura estratégica de Adobe para las necesidades empresariales"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496961/?captions=spa&format=jpeg&nocache=1789514067990" alt="Explicación de la IA y la arquitectura estratégica de Adobe para las necesidades empresariales"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1564,7 +1564,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/aep2025/ai-beyond-basics" title="Asistente de IA: más allá de lo básico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1789514070075" alt="Asistente de IA: más allá de lo básico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463361/?captions=spa&format=jpeg&nocache=1789514070075" alt="Asistente de IA: más allá de lo básico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1745,7 +1745,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2024/aep-marketo-integration" title="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1789514071150" alt="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433671/?captions=spa&format=jpeg&nocache=1789514071150" alt="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1768,7 +1768,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2024/data-stream-prioritization" title="Priorización del flujo de datos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1789514071254" alt="Priorización del flujo de datos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456808/?captions=spa&format=jpeg&nocache=1789514071254" alt="Priorización del flujo de datos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1835,7 +1835,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="Sesión 5 de VRA: Estrategias de administración de cambios para utilizar el Supply chain de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1789514072384" alt="Sesión 5 de VRA: Estrategias de administración de cambios para utilizar el Supply chain de contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479820/?captions=spa&format=jpeg&nocache=1789514072384" alt="Sesión 5 de VRA: Estrategias de administración de cambios para utilizar el Supply chain de contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2129,7 +2129,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2024/hyperpersonalization" title="Madurez de Personalization: la ruta hacia la hiperpersonalización" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1789514074763" alt="Madurez de Personalization: la ruta hacia la hiperpersonalización"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457348/?captions=spa&format=jpeg&nocache=1789514074763" alt="Madurez de Personalization: la ruta hacia la hiperpersonalización"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2198,7 +2198,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2024/strategic-leadership" title="Liderazgo estratégico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1789514074968" alt="Liderazgo estratégico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456786/?captions=spa&format=jpeg&nocache=1789514074968" alt="Liderazgo estratégico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2283,7 +2283,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/genstudio2025/csc-gen-studio" title="Explicación del contenido de Supply chain y Adobe GenStudio as a Product Suite" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1789514076472" alt="Explicación del contenido de Supply chain y Adobe GenStudio as a Product Suite"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472982/?captions=spa&format=jpeg&nocache=1789514076472" alt="Explicación del contenido de Supply chain y Adobe GenStudio as a Product Suite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2913,7 +2913,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/marketo-lead-management-best-practices.md" title="Prácticas recomendadas de Marketo Engage Lead Management" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502954/?format=jpeg&nocache=1789514079825" alt="Prácticas recomendadas de Marketo Engage Lead Management"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502993/?captions=spa&format=jpeg&nocache=1789514079825" alt="Prácticas recomendadas de Marketo Engage Lead Management"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2936,7 +2936,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/email-campaigns.md" title="Uso de GenStudio for Performance Marketing y Marketo para campañas de correo electrónico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491514/?format=jpeg&nocache=1789514079812" alt="Uso de GenStudio for Performance Marketing y Marketo para campañas de correo electrónico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491518/?captions=spa&format=jpeg&nocache=1789514079812" alt="Uso de GenStudio for Performance Marketing y Marketo para campañas de correo electrónico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3153,7 +3153,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2025/multisolution2025/gen-ai-experimentation" title="Experimentación GenAI en AJO y su relación con Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1789514082732" alt="Experimentación GenAI en AJO y su relación con Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444462/?captions=spa&format=jpeg&nocache=1789514082732" alt="Experimentación GenAI en AJO y su relación con Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3470,7 +3470,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/get-more-from-workfront-planning.md" title="De la estrategia a la ejecución: obtenga más información con la planificación de Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502959/?format=jpeg&nocache=1789514087530" alt="De la estrategia a la ejecución: obtenga más información con la planificación de Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502973/?captions=spa&format=jpeg&nocache=1789514087530" alt="De la estrategia a la ejecución: obtenga más información con la planificación de Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3516,7 +3516,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/brand-experience-agent.md" title="Escalado De Agentes De Adobe: Brand Experience Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496956/?format=jpeg&nocache=1789514087512" alt="Escalado De Agentes De Adobe: Brand Experience Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496970/?captions=spa&format=jpeg&nocache=1789514087512" alt="Escalado De Agentes De Adobe: Brand Experience Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3667,7 +3667,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-lean-teams" title="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1789514090033" alt="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456709/?captions=spa&format=jpeg&nocache=1789514090033" alt="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
