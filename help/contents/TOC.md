@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 72af96fb4f167de5866475d5a810a0bd287fb98a
+source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 0%
 ---
 
@@ -55,3 +55,4 @@ ht-degree: 0%
   + {hide-from-toc}[Prácticas recomendadas de observabilidad y supervisión de Adobe Commerce](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[Planificación estratégica para el éxito de CXO](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[Aptitudes de agente de AEM](../contents/2026/ai-assisted-development.md)
+  + {hide-from-toc}[Etiquetado, gobernado, activado](../contents/2026/metadata-backbone-content-at-scale.md)
