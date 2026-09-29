@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503931/?captions=spa&learn=on&enablevpops)
 
 # De Borrador a Entregado: cerrando el hueco de revisión y aprobación de WIP
 
