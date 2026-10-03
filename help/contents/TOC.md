@@ -3,17 +3,19 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 0f24a0a40399ef20b99280e22d684f57a9c8776e
+source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 ---
 
 # Biblioteca de seminarios web de Ultimate Success {#ultimate-success-webinar-library}
 
 + [Información general](overview.md)
++ {hide-from-toc}[IA de información general](overview-ai.md)
 + [Seminarios web](webinars.md)
 + Contenido de la miniserie {#mini-series}
+  + {hide-from-toc}[Aspectos básicos de IA](mini-series/ai-essentials.md)
   + [Serie de aceleración de CJA Value Realization](mini-series/cja-on-demand.md)
   + [Serie de aceleración de AJO Value Realization](mini-series/ajo-on-demand.md)
   + [Serie de Realización de Valores CSC](mini-series/csc-on-demand.md)
