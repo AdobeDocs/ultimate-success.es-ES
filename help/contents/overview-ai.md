@@ -2,21 +2,15 @@
 title: Biblioteca de seminarios web de Ultimate Success
 description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Biblioteca de seminarios web de Ultimate Success
 
 Acceda a nuestra completa biblioteca de seminarios web impartidos por expertos y diseñados para acelerar el dominio de las prácticas recomendadas estratégicas y técnicas exclusivamente para nuestros clientes de Ultimate Success. Desde conceptos básicos hasta estrategias de implementación avanzadas, estos seminarios web cubren todo lo que necesita para impulsar resultados empresariales cuantificables.
-
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet pork belly picanha shank, biltong ham meatloaf polony lomo de cerdo doner landjaeger. costillas de pavo de repuesto filete mignon pancetta tierra redondo leberkas hombro muslo jerky cerdo bola punta. Las costillas cortas frankfurter chuck shankle ham hock tri-tip, filet mignon tail cow ground round boudin chislic drumstick. Costillas cortas de papada de capícola, hombro costillas de repuesto de frankfurter costillas de lomo de cerdo gordo de pavo con salami molido redondo. Tirador de papada landjaeger prosciutto porchetta turducken chislic chuck. Cuchillo de ternera turducken, costillas cortas landjaeger costillas cortas de lomo corto costillas de repuesto de panceta de carne de res corneada porchetta polony kevin papada de cerdo chuleta.
-
-[Ver todos los seminarios web](./webinars.md)
 
 ## Seminarios web
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491238/?captions=spa&format=jpeg&nocache=1790984045136" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Serie de Realización de Valores Supply chain de Contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479089/?captions=spa&format=jpeg&nocache=1773689372143" alt="Serie de Realización de Valores Supply chain de Contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Serie de Realización de Valores Supply chain de Contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
