@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
+source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '268'
 ht-degree: 0%
 ---
 
@@ -61,3 +61,4 @@ ht-degree: 0%
   + {hide-from-toc}[Desbloquear el futuro del crecimiento B2B](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[Cerrando la brecha de revisión y aprobación de trabajo en curso](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[Generación para la escala de IA](../contents/2026/building-for-ai-scale.md)
+  + {hide-from-toc}[Experiencias basadas en código de AJO](../contents/2026/strategies-for-smarter-personalization.md)
