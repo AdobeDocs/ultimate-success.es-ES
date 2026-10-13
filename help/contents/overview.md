@@ -2,13 +2,11 @@
 title: Biblioteca de seminarios web de Ultimate Success
 description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 hide: true
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 0%
-
+source-wordcount: '842'
+ht-degree: 16%
 ---
-
 
 # Biblioteca de seminarios web de Ultimate Success
 
@@ -35,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491238/?captions=spa&format=jpeg&nocache=1779390693086" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791917786805" alt="Impulso del valor en el Supply chain de contenido: un marco estructurado y un cuadro de resultados de medición"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="Sitios rápidos y editables con editor universal y marcos modernos de SSR" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1779390693103" alt="Sitios rápidos y editables con editor universal y marcos modernos de SSR"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791917786824" alt="Sitios rápidos y editables con editor universal y marcos modernos de SSR"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="Sesión de lanzamiento del producto de AJO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1779390693095" alt="Sesión de lanzamiento del producto de AJO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791917786843" alt="Sesión de lanzamiento del producto de AJO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,15 +106,14 @@ CARDS  ****
 
 ## Contenido de la miniserie
 
-Explore las grabaciones OnDemand de la serie Value Realization de Adobe, diseñada para ayudar a las organizaciones a convertir las inversiones de Adobe en un impacto comercial mensurable.
-
-Cada sesión centrada destaca un pilar central del marco de trabajo de realización de valores, que ofrece orientación práctica y artefactos probados para apoyar la planificación estratégica, acelerar el tiempo de obtención del valor e impulsar resultados significativos. Examine las series específicas de productos y del sector para ver cómo los equipos activan la estrategia, alinean a las partes interesadas y pasan de la adopción al impacto.
+Sumérjase en nuestro conjunto depurado de contenido de miniseries bajo demanda con cada seminario web basado en un solo tema, para que pueda aprender cada sesión por su cuenta o ver la serie completa para una comprensión completa e integral.
 
 <!-- 
 CARDS  ****
 
   {cta  = View series}
   
+* mini-series/ai-essentials.md
 * mini-series/cja-on-demand.md
 * mini-series/ajo-on-demand.md
 * mini-series/csc-on-demand.md
@@ -124,6 +121,29 @@ CARDS  ****
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Essentials">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="AI Essentials"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">Aspectos básicos de IA</a>
+                    </p>
+                    <p class="is-size-6">Conozca Adobe AI con sesiones bajo demanda que cubren conceptos principales y funciones prácticas de IA en productos de Adobe Customer Experience Orchestration.</p>
+                </div>
+                <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver serie</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA Value Realization Acceleration Series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -175,7 +195,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Serie de Realización de Valores Supply chain de Contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479089/?captions=spa&format=jpeg&nocache=1773689372143" alt="Serie de Realización de Valores Supply chain de Contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Serie de Realización de Valores Supply chain de Contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
