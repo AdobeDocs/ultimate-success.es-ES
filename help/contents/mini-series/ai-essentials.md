@@ -92,7 +92,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/on-demand-events/ai-beyond-basics" title="Asistente de IA: más allá de lo básico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1791840290822" alt="Asistente de IA: más allá de lo básico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463361/?captions=spa&format=jpeg&nocache=1791840290822" alt="Asistente de IA: más allá de lo básico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
