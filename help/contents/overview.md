@@ -2,7 +2,7 @@
 title: Biblioteca de seminarios web de Ultimate Success
 description: Explore nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para clientes de Ultimate Success, a fin de dominar rápidamente las prácticas recomendadas estratégicas y técnicas que ofrecen resultados empresariales cuantificables.
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -14,7 +14,7 @@ Acceda a nuestra completa biblioteca de seminarios web impartidos por expertos y
 
 ## Seminarios web
 
-Explore nuestra colección de seminarios web bajo demanda diseñados para ayudarle a maximizar el valor de las soluciones de Adobe Experience Platform (AEP). Diseñada para los clientes de Ultimate, cada sesión ofrece directrices útiles, estrategias probadas y ejemplos reales para ayudarle a tomar decisiones más inteligentes y obtener resultados más sólidos según su programación.
+Explore nuestra colección de seminarios web bajo demanda diseñados para ayudarle a maximizar el valor de las soluciones de Adobe Experience Platform (AEP). Diseñada para los clientes de Ultimate, cada sesión ofrece directrices procesables, estrategias comprobadas y ejemplos reales para ayudarle a tomar decisiones más inteligentes y obtener resultados más sólidos según su programación.
 
 <!-- 
 CARDS  ****
