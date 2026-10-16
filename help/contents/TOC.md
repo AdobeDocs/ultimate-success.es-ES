@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
+source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '272'
 ht-degree: 0%
 ---
 
@@ -61,4 +61,5 @@ ht-degree: 0%
   + {hide-from-toc}[Cerrando la brecha de revisión y aprobación de trabajo en curso](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[Generación para la escala de IA](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Experiencias basadas en código de AJO](../contents/2026/strategies-for-smarter-personalization.md)
+  + {hide-from-toc}[Introducción a las API de REST de Campaign](../contents/2026/getting-started-campaign-rest-apis.md)
 
