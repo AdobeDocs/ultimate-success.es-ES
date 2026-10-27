@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
+source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '293'
 ht-degree: 0%
 ---
 
@@ -62,4 +62,7 @@ ht-degree: 0%
   + {hide-from-toc}[Generación para la escala de IA](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Experiencias basadas en código de AJO](../contents/2026/strategies-for-smarter-personalization.md)
   + {hide-from-toc}[Introducción a las API de REST de Campaign](../contents/2026/getting-started-campaign-rest-apis.md)
+  + {hide-from-toc}[Asistente de IA de AEM y Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
+  + {hide-from-toc}[Producción a escala con Designer de correo electrónico de Campaign](../contents/2026/scale-production-campaign-email-designer.md)
+  + {hide-from-toc}[Conexión de las inversiones de AI Agentic con el impacto en el negocio](../contents/2026/ai-agentic-investments-to-business-impact.md)
 
