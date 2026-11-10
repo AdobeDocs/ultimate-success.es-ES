@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
+source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '299'
 ht-degree: 0%
 ---
 
@@ -66,4 +66,5 @@ ht-degree: 0%
   + {hide-from-toc}[Producción a escala con Designer de correo electrónico de Campaign](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[Conexión de las inversiones de AI Agentic con el impacto en el negocio](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[Adopción sostenible de IA](../contents/2026/sustainable-ai-adoption.md)
+  + {hide-from-toc}[Kit de herramientas de IA de Marketo](../contents/2026/marketo-ai-toolkit.md)
 
