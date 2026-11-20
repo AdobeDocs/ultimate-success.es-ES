@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de seminarios web de Ultimate Success
 breadcrumb-title: Biblioteca de seminarios web de Ultimate Success
 user-guide-description: Acceda a nuestra biblioteca exclusiva de seminarios web dirigidos por expertos para que los clientes de Ultimate Success dominen rápidamente las prácticas recomendadas estratégicas y técnicas que impulsan resultados empresariales cuantificables.
 nudge: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '322'
 ht-degree: 0%
 ---
 
@@ -71,4 +71,5 @@ ht-degree: 0%
   + {hide-from-toc}[Compañero de trabajo de Adobe - Su compañero de equipo de IA](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc}[Convirtiendo perspectivas de Analytics en un registro de experimentos pendientes](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc}[Agentes de Adobe AI en práctica](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc}[Centro de excelencia de RTCDP](..//contents/2026/rtcdp-center-of-excellence.md)
 
